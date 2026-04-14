@@ -6,7 +6,7 @@ const pricingPlans = [
   {
     title: 'Mini Project',
     subtitle: 'Predefined Concept',
-    price: '699',
+    price: '749',
     description: 'Perfect for quick semester submissions',
     popular: false,
     features: [
@@ -20,7 +20,7 @@ const pricingPlans = [
   {
     title: 'Mini Project',
     subtitle: 'Your Custom Idea',
-    price: '999',
+    price: '949',
     description: 'Bring your own concept to life',
     popular: true,
     features: [
