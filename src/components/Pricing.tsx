@@ -35,7 +35,7 @@ const pricingPlans = [
     title: 'Major Project',
     subtitle: 'Predefined Concept',
     price: '3,999',
-    description: 'Advanced project for final year',
+    description: 'Advanced project for final year ',
     popular: false,
     features: [
       'Complete Source Code',
